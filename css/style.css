@@ -62,19 +62,19 @@ body{
 }
 .content-child.one::after{ 
   content: ""; 
-  background-image: url('../images/client.svg');
+  background-image: url('images/client.svg');
 }
 .content-child.two::after{ 
   content: ""; 
-  background-image: url('../images/pages.svg');
+  background-image: url('images/pages.svg');
 }
 .content-child.three::after{ 
   content: ""; 
-  background-image: url('../images/service.svg');
+  background-image: url('images/service.svg');
 }
 .content-child.four::after{ 
   content: ""; 
-  background-image: url('../images/retention.svg');
+  background-image: url('images/retention.svg');
 }
 .content-child span{
   display: block;
